@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 import re
-#import testrunner
                 
 def calc(A,B):
         if type(A)==int and type(B)==int:
